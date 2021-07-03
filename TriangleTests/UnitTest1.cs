@@ -5,13 +5,13 @@ namespace TriangleTests
 {
    
     [TestFixture]
-    public class UnitTest
+    public class UnitTe
     {
 
         string triangle;
 
         [Test]
-        public void Equilateral_Threesides_Four() // Verify three euqal sides for an equilateral triangle with value 4
+        public void Equilateral_Threesides_Four() // Verify all 3 equal sides for an equilateral triangle with value 4
         {
             int a = 4, b = 4, c = 4;
             triangle = "Equilateral";
@@ -19,7 +19,7 @@ namespace TriangleTests
         }
 
         [Test]
-        public void Equilateral_ThreeSides_Eight() // Verify three euqal sides for an equilateral triangle with value 8
+        public void Equilateral_ThreeSides_Eight() // Verify all three equal sides for an equilateral triangle with value 8
         {
             int a = 8, b = 8, c = 8;
             triangle = "Equilateral";
@@ -51,7 +51,7 @@ namespace TriangleTests
         }
 
         [Test]
-        public void Scalene_Four_Seven_Eight() // Verify that three different vaules makes a scalene triangle -- 4,7,8
+        public void Scalene_Four_Seven_Eight() // Verify that three different vales makes a scalene triangle -- 4,7,8
         {
             int a = 4, b = 7, c = 8;
             triangle = "Scalene";
