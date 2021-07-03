@@ -35,7 +35,7 @@ namespace TriangleTests
         }
 
         [Test]
-        public void Isocseles_sideA_and_SideC_Five() // Verify that  any two sides are equal for an isoceles triangle -- here A and C are equal
+        public void Isocseles_sideA_and_SideC_Five() // Verify that if two sides are equal for an isoceles triangle -- here A and C are equal
         {
             int a = 6, b = 10, c = 6;
             triangle = "Isosceles";
@@ -67,7 +67,7 @@ namespace TriangleTests
         }
 
         [Test]
-        public void Scalene_Seven_Forteen_TwentyOne() // Verifychecks for three different vaules makes a scalene triangle -- 7,14,21
+        public void Scalene_Seven_Forteen_TwentyOne() // Verify checks for 3 different vaules that makes a scalene triangle -- 7,14,21
         {
             int a = 7, b = 14, c = 21;
             triangle = "Scalene";
