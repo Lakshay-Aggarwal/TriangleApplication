@@ -51,7 +51,7 @@ namespace TriangleTests
         }
 
         [Test]
-        public void Scalene_Four_Seven_Eight() // Verify that three different vales makes a scalene triangle -- 4,7,8
+        public void Scalene_Four_Seven_Eight() // Verify that three different values makes a scalene triangle -- 4,7,8
         {
             int a = 4, b = 7, c = 8;
             triangle = "Scalene";
@@ -59,7 +59,7 @@ namespace TriangleTests
         }
 
         [Test]
-        public void Scalene_Five_Ten_Fifteen() // Verify that three different vaules makes a scalene triangle -- 5,10,15
+        public void Scalene_Five_Ten_Fifteen() // Verify that three different values makes a scalene triangle -- 5,10,15
         {
             int a = 5, b = 10, c = 15;
             triangle = "Scalene";
@@ -67,7 +67,7 @@ namespace TriangleTests
         }
 
         [Test]
-        public void Scalene_Seven_Forteen_TwentyOne() // Verify checks for 3 different vaules that makes a scalene triangle -- 7,14,21
+        public void Scalene_Seven_Forteen_TwentyOne() // Verify checks for 3 different values that makes a scalene triangle -- 7,14,21
         {
             int a = 7, b = 14, c = 21;
             triangle = "Scalene";
