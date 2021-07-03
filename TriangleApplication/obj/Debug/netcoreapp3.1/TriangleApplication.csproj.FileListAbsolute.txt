@@ -1,0 +1,13 @@
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp3.1\TriangleApplication.exe
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp3.1\TriangleApplication.deps.json
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp3.1\TriangleApplication.runtimeconfig.json
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp3.1\TriangleApplication.runtimeconfig.dev.json
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp3.1\TriangleApplication.dll
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp3.1\TriangleApplication.pdb
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp3.1\TriangleApplication.csproj.AssemblyReference.cache
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp3.1\TriangleApplication.AssemblyInfoInputs.cache
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp3.1\TriangleApplication.AssemblyInfo.cs
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp3.1\TriangleApplication.csproj.CoreCompileInputs.cache
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp3.1\TriangleApplication.dll
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp3.1\TriangleApplication.pdb
+C:\Users\mukpahwa\source\repos\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp3.1\TriangleApplication.genruntimeconfig.cache
